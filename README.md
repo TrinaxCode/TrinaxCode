@@ -128,21 +128,17 @@ I don't build portfolios full of Netflix clones. I build things people actually 
 
 ## Education
 
-| Institution | Program | Status |
-|---|---|---|
-| **Harvard University** | CS50x – Intro to Computer Science | ✅ Completed |
-| **Harvard University** | CS50W – Web Programming | ✅ Completed |
-| **Stanford University** | Code in Place 2026 | ✅ Completed |
-| **MITx** | Statistics & Data Science MicroMasters | 📌 Planned |
-| **GitHub** | Foundations Certification | 📌 Planned |
-| **MongoDB** | Developer Certification | 📌 Planned |
-| **Cambridge** | English C1 Proficiency | 🔄 In progress |
+| Institution | Program | Status | Certificate |
+|---|---|---|---|
+| **Harvard University** | CS50x – Intro to Computer Science | ✅ Completed | — |
+| **Harvard University** | CS50W – Web Programming | ✅ Completed | <img src="assets/cert-cs50w.png" width="60"> <img src="assets/cert-cs50w-edx.png" width="60"> |
+| **Stanford University** | Code in Place 2026 | ✅ Completed | <img src="assets/cert-codeinplace.png" width="60"> |
+| **MITx** | Statistics & Data Science MicroMasters | 📌 Planned | — |
+| **GitHub** | Foundations Certification | 📌 Planned | — |
+| **MongoDB** | Developer Certification | 📌 Planned | — |
+| **Cambridge** | English C1 Proficiency | 🔄 In progress | — |
 
 > Harvard Professional Certificate (CS50x + CS50W)
-
-#### Certificates
-- **CS50W – Web Programming (Harvard)** — `assets/cert-cs50w.png` | `assets/cert-cs50w-edx.png`
-- **Code in Place 2026 (Stanford)** — `assets/cert-codeinplace.png`
 
 ---
 
