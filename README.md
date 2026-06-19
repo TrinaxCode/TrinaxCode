@@ -79,12 +79,6 @@ I ship products that generate real traffic, real leads, and real revenue. Everyt
 ## Featured Projects
 
 ### [Rednura Web](https://rednura.web.app/)
-<p align="center">
-  <a href="https://rednura.web.app/">
-    <img src="assets/rednura.png" alt="Rednura Web Screenshot" width="90%">
-  </a>
-</p>
-
 **E-commerce — natural supplements.** Catalog of 42 products with an intelligent recommendation assistant covering 139 health conditions — no LLM needed. Full SEO suite: JSON-LD, dynamic sitemap, `llms.txt`. Organic ranking #1 in Tuxtla Gutiérrez. Drives real traffic and sales.
 
 `HTML` `CSS` `Vanilla JS` `Firebase`
@@ -92,12 +86,6 @@ I ship products that generate real traffic, real leads, and real revenue. Everyt
 ---
 
 ### [Belcons Remodeling](https://belconsremodeling.com/)
-<p align="center">
-  <a href="https://belconsremodeling.com/">
-    <img src="assets/belcons.png" alt="Belcons Remodeling Screenshot" width="90%">
-  </a>
-</p>
-
 **Full-stack platform — real remodeling company in the US.** Lead capture, quote management, and admin panel. Django + PostgreSQL backend. Optimized media via Cloudinary.
 
 `Django` `PostgreSQL` `Cloudinary` `Python`
@@ -105,12 +93,6 @@ I ship products that generate real traffic, real leads, and real revenue. Everyt
 ---
 
 ### [CEDAS Montessori](https://davidalfarosiqueiros.web.app/)
-<p align="center">
-  <a href="https://davidalfarosiqueiros.web.app/">
-    <img src="assets/cedas.png" alt="CEDAS Montessori Screenshot" width="90%">
-  </a>
-</p>
-
 **Institutional site — Montessori school.** Built with React + TypeScript + Tailwind + Framer Motion. Enrollment-focused design with on-page SEO.
 
 `React` `TypeScript` `Tailwind` `Framer Motion`
@@ -118,12 +100,6 @@ I ship products that generate real traffic, real leads, and real revenue. Everyt
 ---
 
 ### [Iglesia Adventista El Jobo](https://adventistaseljobo.web.app/)
-<p align="center">
-  <a href="https://adventistaseljobo.web.app/">
-    <img src="assets/eljobo.png" alt="Iglesia Adventista El Jobo Screenshot" width="90%">
-  </a>
-</p>
-
 **Community portal.** Over 10,000 accumulated visits. Institutional content, multimedia, and meaningful local reach.
 
 `HTML` `CSS` `JavaScript` `Firebase`
@@ -162,15 +138,11 @@ I don't build portfolios full of Netflix clones. I build things people actually 
 | **MongoDB** | Developer Certification | 📌 Planned |
 | **Cambridge** | English C1 Proficiency | 🔄 In progress |
 
-<p align="center">
-  <img src="assets/cert-cs50w.png" alt="CS50W Certificate" width="45%">
-  <img src="assets/cert-cs50w-edx.png" alt="CS50W edX Certificate" width="45%">
-</p>
-<p align="center">
-  <img src="assets/cert-codeinplace.png" alt="Code in Place 2026 Certificate" width="45%">
-</p>
-
 > Harvard Professional Certificate (CS50x + CS50W)
+
+#### Certificates
+- **CS50W – Web Programming (Harvard)** — `assets/cert-cs50w.png` | `assets/cert-cs50w-edx.png`
+- **Code in Place 2026 (Stanford)** — `assets/cert-codeinplace.png`
 
 ---
 
