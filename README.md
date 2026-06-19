@@ -1,21 +1,20 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="TrinaxCode Banner" width="100%">
+</p>
 
-# TrinaxCode
+<h1 align="center">TrinaxCode</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-**Full Stack Web Developer · Frontend Focused**
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-TrinaxCode-181717?style=flat&logo=github&logoColor=white)](https://github.com/TrinaxCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-trinaxcode-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinaxcode/)
-[![X](https://img.shields.io/badge/X-%40TrinaxCode-000000?style=flat&logo=x&logoColor=white)](https://x.com/TrinaxCode)
-[![TikTok](https://img.shields.io/badge/TikTok-%40trinaxcode-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@trinaxcode)
-[![Instagram](https://img.shields.io/badge/Instagram-%40trinaxcode-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/trinaxcode/)
-[![Facebook](https://img.shields.io/badge/Facebook-TrinaxCode-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/TrinaxCode)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--2321--9834-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2321-9834)
-[![Email](https://img.shields.io/badge/Email-trinaxcode%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trinaxcode@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/TrinaxCode"><img src="https://img.shields.io/badge/GitHub-TrinaxCode-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/trinaxcode/"><img src="https://img.shields.io/badge/LinkedIn-trinaxcode-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/TrinaxCode"><img src="https://img.shields.io/badge/X-%40TrinaxCode-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@trinaxcode"><img src="https://img.shields.io/badge/TikTok-%40trinaxcode-000000?style=flat&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.instagram.com/trinaxcode/"><img src="https://img.shields.io/badge/Instagram-%40trinaxcode-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/TrinaxCode"><img src="https://img.shields.io/badge/Facebook-TrinaxCode-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0009-2321-9834"><img src="https://img.shields.io/badge/ORCID-0009--0009--2321--9834-A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
+  <a href="mailto:trinaxcode@gmail.com"><img src="https://img.shields.io/badge/Email-trinaxcode%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -80,27 +79,65 @@ I ship products that generate real traffic, real leads, and real revenue. Everyt
 ## Featured Projects
 
 ### [Rednura Web](https://rednura.web.app/)
-**E-commerce — suplementos naturales.** Catálogo de 42 productos con asistente inteligente de recomendaciones que cubre 139 condiciones de salud sin depender de LLM. SEO completo: JSON-LD, sitemap dinámico, `llms.txt`. Posicionamiento orgánico #1 en Tuxtla Gutiérrez. Genera tráfico y ventas reales.
+<p align="center">
+  <a href="https://rednura.web.app/">
+    <img src="assets/rednura.png" alt="Rednura Web Screenshot" width="90%">
+  </a>
+</p>
+
+**E-commerce — natural supplements.** Catalog of 42 products with an intelligent recommendation assistant covering 139 health conditions — no LLM needed. Full SEO suite: JSON-LD, dynamic sitemap, `llms.txt`. Organic ranking #1 in Tuxtla Gutiérrez. Drives real traffic and sales.
+
 `HTML` `CSS` `Vanilla JS` `Firebase`
 
+---
+
 ### [Belcons Remodeling](https://belconsremodeling.com/)
-**Plataforma full-stack — empresa de remodelaciones en EE.UU.** Captura de leads, gestión de cotizaciones y panel administrativo. Backend con Django + PostgreSQL. Medios optimizados vía Cloudinary.
+<p align="center">
+  <a href="https://belconsremodeling.com/">
+    <img src="assets/belcons.png" alt="Belcons Remodeling Screenshot" width="90%">
+  </a>
+</p>
+
+**Full-stack platform — real remodeling company in the US.** Lead capture, quote management, and admin panel. Django + PostgreSQL backend. Optimized media via Cloudinary.
+
 `Django` `PostgreSQL` `Cloudinary` `Python`
 
+---
+
 ### [CEDAS Montessori](https://davidalfarosiqueiros.web.app/)
-**Sitio institucional — centro educativo.** React + TypeScript + Tailwind + Framer Motion. Diseño pensado para conversión de matrícula con SEO on-page.
+<p align="center">
+  <a href="https://davidalfarosiqueiros.web.app/">
+    <img src="assets/cedas.png" alt="CEDAS Montessori Screenshot" width="90%">
+  </a>
+</p>
+
+**Institutional site — Montessori school.** Built with React + TypeScript + Tailwind + Framer Motion. Enrollment-focused design with on-page SEO.
+
 `React` `TypeScript` `Tailwind` `Framer Motion`
 
+---
+
 ### [Iglesia Adventista El Jobo](https://adventistaseljobo.web.app/)
-**Portal comunitario.** Más de 10,000 visitas acumuladas. Contenido institucional, multimedia y alcance local significativo.
+<p align="center">
+  <a href="https://adventistaseljobo.web.app/">
+    <img src="assets/eljobo.png" alt="Iglesia Adventista El Jobo Screenshot" width="90%">
+  </a>
+</p>
+
+**Community portal.** Over 10,000 accumulated visits. Institutional content, multimedia, and meaningful local reach.
+
 `HTML` `CSS` `JavaScript` `Firebase`
 
+---
+
 ### ApexLumen
-**Plataforma educativa con dinámica social.** Likes, ratings, comentarios, carga multimedia y perfiles de usuario. Backend Django.
+**Educational platform with social dynamics.** Likes, ratings, comments, media upload, and user profiles. Django backend.
+
 `Django` `Python` `PostgreSQL`
 
 ### Detector de Expresiones Faciales
-**Visión computacional en tiempo real.** Detección de emociones faciales con OpenCV y MediaPipe. Procesamiento en vivo desde webcam.
+**Real-time computer vision.** Facial emotion detection using OpenCV and MediaPipe. Live webcam processing.
+
 `Python` `OpenCV` `MediaPipe`
 
 ---
@@ -124,6 +161,14 @@ I don't build portfolios full of Netflix clones. I build things people actually 
 | **GitHub** | Foundations Certification | 📌 Planned |
 | **MongoDB** | Developer Certification | 📌 Planned |
 | **Cambridge** | English C1 Proficiency | 🔄 In progress |
+
+<p align="center">
+  <img src="assets/cert-cs50w.png" alt="CS50W Certificate" width="45%">
+  <img src="assets/cert-cs50w-edx.png" alt="CS50W edX Certificate" width="45%">
+</p>
+<p align="center">
+  <img src="assets/cert-codeinplace.png" alt="Code in Place 2026 Certificate" width="45%">
+</p>
 
 > Harvard Professional Certificate (CS50x + CS50W)
 
