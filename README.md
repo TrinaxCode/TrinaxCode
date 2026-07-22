@@ -1,173 +1,79 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TrinaxCode Banner" width="100%">
+  <img src="assets/banner.png" alt="TrinaxCode banner" width="100%">
 </p>
 
-<h1 align="center">TrinaxCode</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi, I'm TrinaxCode</h1>
+<h3 align="center">Full-stack product engineer · Local-first AI · Open source</h3>
 
 <p align="center">
-  <a href="https://github.com/TrinaxCode"><img src="https://img.shields.io/badge/GitHub-TrinaxCode-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/trinaxcode/"><img src="https://img.shields.io/badge/LinkedIn-trinaxcode-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/TrinaxCode"><img src="https://img.shields.io/badge/X-%40TrinaxCode-000000?style=flat&logo=x&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@trinaxcode"><img src="https://img.shields.io/badge/TikTok-%40trinaxcode-000000?style=flat&logo=tiktok&logoColor=white"/></a>
-  <a href="https://www.instagram.com/trinaxcode/"><img src="https://img.shields.io/badge/Instagram-%40trinaxcode-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/TrinaxCode"><img src="https://img.shields.io/badge/Facebook-TrinaxCode-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0009-2321-9834"><img src="https://img.shields.io/badge/ORCID-0009--0009--2321--9834-A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
-  <a href="mailto:trinaxcode@gmail.com"><img src="https://img.shields.io/badge/Email-trinaxcode%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://trinaxai.app">Website</a> ·
+  <a href="https://github.com/TrinaxCode">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/trinaxcode/">LinkedIn</a> ·
+  <a href="mailto:trinaxcode@gmail.com">Email</a>
 </p>
 
----
+I'm a Nicaraguan developer based in Tuxtla Gutiérrez, Mexico. I build complete products—from accessible interfaces and business workflows to APIs, security boundaries, tests, CI, and deployment. My current focus is private, local-first AI that gives users control of their data.
 
-```yaml
-location:   "Tuxtla Gutiérrez, Chiapas, México"
-origin:     "Nicaragua"
-role:       "Full Stack Web Developer · Frontend-heavy"
-philosophy: "Production impact over tutorial demos."
-stack:      "React · TypeScript · Django · PostgreSQL · Firebase"
-```
+I care about software that works outside a demo: real users, clear trade-offs, safe defaults, and maintainable systems.
 
-I ship products that generate real traffic, real leads, and real revenue. Everything I build is live, indexed, and used.
+## What I'm shipping now
 
----
+### [TrinaxAI](https://github.com/TrinaxCode/TrinaxAI) · [trinaxai.app](https://trinaxai.app)
 
-## Tech Stack
+[![Release](https://img.shields.io/github/v/release/TrinaxCode/TrinaxAI?style=flat&label=release)](https://github.com/TrinaxCode/TrinaxAI/releases)
+[![CI](https://github.com/TrinaxCode/TrinaxAI/actions/workflows/ci.yml/badge.svg)](https://github.com/TrinaxCode/TrinaxAI/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/TrinaxCode/TrinaxAI/actions/workflows/codeql.yml/badge.svg)](https://github.com/TrinaxCode/TrinaxAI/actions/workflows/codeql.yml)
+[![License](https://img.shields.io/github/license/TrinaxCode/TrinaxAI?style=flat)](https://github.com/TrinaxCode/TrinaxAI/blob/main/LICENSE)
 
-### Frontend
+An open-source, local-first AI assistant built around Ollama. It combines a FastAPI backend, React/TypeScript PWA, developer CLI, and a RAG engine for private files and code.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+- Hybrid vector + BM25 retrieval, cited answers, collections, reranking, and multi-pass research
+- Sandboxed coding agent with workspace confinement and approval for dangerous actions
+- Scoped, revocable device pairing for private features across a local network
+- Local memory, voice, vision, attachments, web search, and cross-device synchronization
+- Linux, macOS, and Windows installers; CI across all three platforms
+- Python and frontend tests, Ruff, CodeQL, release automation, and reproducible release assets
 
-### Backend
+`Python` `FastAPI` `React` `TypeScript` `Ollama` `RAG` `PWA` `GitHub Actions`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+## Selected production work
 
-### Databases
+| Project | What I delivered | Stack |
+|---|---|---|
+| [Belcons Remodeling](https://belconsremodeling.com/) | Full-stack platform for a US remodeling business: lead capture, project and quote management, private admin workflows, media delivery, and SEO. | Django · PostgreSQL · Cloudinary |
+| [Rednura Web](https://rednura.web.app/) | Static commerce platform with 42 products, cart and wishlist, WhatsApp checkout, and a rule-based recommendation assistant covering 139 health conditions. | HTML · CSS · JavaScript · Firebase |
+| [CEDAS Montessori](https://davidalfarosiqueiros.web.app/) | Responsive school website with TypeScript, build-time prerendering, structured data, optimized media, and enrollment-focused UX. | React · TypeScript · Tailwind · Firebase |
+| [Iglesia El Jobo](https://adventistaseljobo.web.app/) | Community portal with crawlable content, events, gallery, location, social channels, structured data, and optimized media. | React · JavaScript · Tailwind · Firebase |
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+## More engineering work
 
-### Infra & DevOps
+- **TrinaxBank** — bilingual banking application with Next.js, TypeScript, Prisma, and NextAuth. I implemented cent-normalized money operations, atomic balance guards, Zod validation, rate limiting, anti-enumeration login behavior, analytics, recurring transfers, and unit/integration/E2E tests.
+- **ApexLumen** — Django educational platform with authentication, contributions, search, saves, likes, ratings, comments, permissions, pagination, and image/video/PDF handling.
+- **Facial Expression Detector** — real-time webcam application using Python, OpenCV, and MediaPipe, with configurable heuristics and temporal smoothing.
 
-![Linux](https://img.shields.io/badge/Linux-Pop__OS-333333?style=flat&logo=linux&logoColor=white)
-![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+## How I engineer
 
-> **Learning:** Docker · AWS
-
----
-
-## Featured Projects
-
-### [Rednura Web](https://rednura.web.app/)
-**E-commerce — natural supplements.** Catalog of 42 products with an intelligent recommendation assistant covering 139 health conditions — no LLM needed. Full SEO suite: JSON-LD, dynamic sitemap, `llms.txt`. Organic ranking #1 in Tuxtla Gutiérrez. Drives real traffic and sales.
-
-`HTML` `CSS` `Vanilla JS` `Firebase`
-
----
-
-### [Belcons Remodeling](https://belconsremodeling.com/)
-**Full-stack platform — real remodeling company in the US.** Lead capture, quote management, and admin panel. Django + PostgreSQL backend. Optimized media via Cloudinary.
-
-`Django` `PostgreSQL` `Cloudinary` `Python`
-
----
-
-### [CEDAS Montessori](https://davidalfarosiqueiros.web.app/)
-**Institutional site — Montessori school.** Built with React + TypeScript + Tailwind + Framer Motion. Enrollment-focused design with on-page SEO.
-
-`React` `TypeScript` `Tailwind` `Framer Motion`
-
----
-
-### [Iglesia Adventista El Jobo](https://adventistaseljobo.web.app/)
-**Community portal.** Over 10,000 accumulated visits. Institutional content, multimedia, and meaningful local reach.
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
----
-
-### ApexLumen
-**Educational platform with social dynamics.** Likes, ratings, comments, media upload, and user profiles. Django backend.
-
-`Django` `Python` `PostgreSQL`
-
-### Detector de Expresiones Faciales
-**Real-time computer vision.** Facial emotion detection using OpenCV and MediaPipe. Live webcam processing.
-
-`Python` `OpenCV` `MediaPipe`
-
----
-
-## Philosophy
-
-> Production impact over tutorial demos.
-
-I don't build portfolios full of Netflix clones. I build things people actually use — products that rank on Google, generate traffic, and solve real problems. Every project in this profile is live and has purpose.
-
----
+| Area | Practices I use |
+|---|---|
+| Product | End-to-end ownership, bilingual UX, responsive interfaces, progressive enhancement |
+| Backend | FastAPI, Django, Next.js server actions, REST APIs, validation, authorization |
+| Data | PostgreSQL, SQLite, Prisma, Django ORM, Firestore, hybrid search |
+| Reliability | Pytest, Vitest, Testing Library, Playwright, CI, cross-platform checks |
+| Security | Least privilege, scoped capabilities, sandboxing, rate limits, safe cookies, CodeQL |
+| Delivery | Linux, Git, GitHub Actions, Firebase, Cloudflare, Railway, Heroku, Cloudinary |
 
 ## Education
 
-| Institution | Program | Status | Certificate |
-|---|---|---|---|
-| **Harvard University** | CS50x – Intro to Computer Science | ✅ Completed | — |
-| **Harvard University** | CS50W – Web Programming | ✅ Completed | <img src="assets/cert-cs50w.png" width="60"> <img src="assets/cert-cs50w-edx.png" width="60"> |
-| **Stanford University** | Code in Place 2026 | ✅ Completed | <img src="assets/cert-codeinplace.png" width="60"> |
-| **MITx** | Statistics & Data Science MicroMasters | 📌 Planned | — |
-| **GitHub** | Foundations Certification | 📌 Planned | — |
-| **MongoDB** | Developer Certification | 📌 Planned | — |
-| **Cambridge** | English C1 Proficiency | 🔄 In progress | — |
+| Program | Status | Certificate |
+|---|---|---|
+| HarvardX CS50x — Introduction to Computer Science | Completed | — |
+| HarvardX CS50W — Web Programming with Python and JavaScript | Completed | <img src="assets/cert-cs50w.png" alt="CS50W certificate" width="65"> <img src="assets/cert-cs50w-edx.png" alt="CS50W edX certificate" width="65"> |
+| Stanford Code in Place 2026 | Completed | <img src="assets/cert-codeinplace.png" alt="Code in Place certificate" width="65"> |
 
-> Harvard Professional Certificate (CS50x + CS50W)
+## Beyond code
 
----
+I share what I learn and build through [TikTok](https://www.tiktok.com/@trinaxcode), [Instagram](https://www.instagram.com/trinaxcode/), [X](https://x.com/TrinaxCode), and [Facebook](https://www.facebook.com/TrinaxCode). I am open to remote roles, open-source collaboration, and product work with real-world impact.
 
-## Currently Learning
-
-- **Docker** — containerization & reproducible environments
-- **AWS** — cloud infrastructure fundamentals
-- **English C1** — Cambridge certification in progress
-
----
-
-## Contact
-
-| Channel | Link / Handle |
-|---|---|
-| **Email** | [trinaxcode@gmail.com](mailto:trinaxcode@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/trinaxcode](https://www.linkedin.com/in/trinaxcode/) |
-| **X (Twitter)** | [x.com/TrinaxCode](https://x.com/TrinaxCode) |
-| **TikTok** | [@trinaxcode](https://www.tiktok.com/@trinaxcode) — +60K followers |
-| **Instagram** | [@trinaxcode](https://www.instagram.com/trinaxcode/) |
-| **Facebook** | [TrinaxCode](https://www.facebook.com/TrinaxCode) |
-| **ORCID** | [0009-0009-2321-9834](https://orcid.org/0009-0009-2321-9834) |
-| **WhatsApp** | [+52 961 853 3231](https://wa.me/529618533231) — Business inquiries / collaboration |
-
----
-
-<div align="center">
-
-**Open to remote opportunities, collaborations, and interesting projects.**  
-*If it ships and people use it, I'm in.*
-
-</div>
+<p align="center">
+  <strong>Build it clearly. Test the risky parts. Ship what people need.</strong>
+</p>
