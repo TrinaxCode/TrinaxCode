@@ -110,13 +110,17 @@ The constant has been simple: every project should teach me something the previo
 
 | Program | Evidence |
 |---|---|
-| **Harvard CS50W** — Web Programming with Python and JavaScript | [Verified certificate](https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b) |
+| **Harvard CS50W** — Web Programming with Python and JavaScript | [CS50 certificate](https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b) · [edX verified certificate](https://courses.edx.org/certificates/9e05af2e3b584f4bbda94476979aaaeb) |
 | **Harvard CS50x** — Introduction to Computer Science | Completed coursework and problem sets |
 | **Stanford Code in Place 2026** | [Verified certificate](https://codeinplace.stanford.edu/cip6/certificate/6dufs7) |
 
 <p align="center">
-  <a href="https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b"><img src="assets/cert-cs50w.png" alt="Harvard CS50W certificate" width="330"></a>
+  <a href="https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b"><img src="assets/cert-cs50w.png" alt="Harvard CS50W certificate" height="230"></a>
   &nbsp;
+  <a href="https://courses.edx.org/certificates/9e05af2e3b584f4bbda94476979aaaeb"><img src="assets/cert-cs50w-edx.png" alt="HarvardX CS50W edX verified certificate" height="230"></a>
+</p>
+
+<p align="center">
   <a href="https://codeinplace.stanford.edu/cip6/certificate/6dufs7"><img src="assets/cert-codeinplace.png" alt="Stanford Code in Place certificate" height="255"></a>
 </p>
 
