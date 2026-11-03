@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🇳🇮 Nicaraguan developer &nbsp;·&nbsp; 📍 Based in Tuxtla Gutiérrez, Mexico &nbsp;·&nbsp; 🌎 Open to remote opportunities
+  🇳🇮 Nicaraguan developer &nbsp;·&nbsp; 📍 Based in Managua, Nicaragua &nbsp;·&nbsp; 🌎 Open to remote opportunities
 </p>
 
 ## `$ whoami`
@@ -28,7 +28,7 @@ I work across the stack, but my favorite problems live where **product thinking,
 current_focus:  "Local-first AI, RAG, developer tools, full-stack products"
 building:       "TrinaxAI"
 working_style:  "Understand deeply · Build simply · Test the risky parts · Ship"
-languages:      "Spanish (native) · English (professional growth)"
+languages:      "Spanish (native) · English (C2, EF SET 72/100)"
 ```
 
 ## 🚀 Flagship project
