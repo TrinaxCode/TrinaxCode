@@ -215,7 +215,7 @@ Real products for real businesses, plus my own. Click any card to open the live 
 
 Also: **ApexLumen**, a Django educational platform with authentication, contributions, search, permissions, likes, ratings, comments and multi-format media.
 
-## 🛠️ Toolbox
+## 🔧 Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,django,nodejs,postgres,firebase,supabase,fastapi,prisma,docker,linux,git,githubactions,vercel&perline=9" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Django, Node.js, PostgreSQL, Firebase, Supabase, FastAPI, Prisma, Docker, Linux, Git, GitHub Actions and Vercel">
