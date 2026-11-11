@@ -18,6 +18,33 @@
   🇳🇮 Nicaraguan developer &nbsp;·&nbsp; 📍 Managua, Nicaragua (UTC−6) &nbsp;·&nbsp; 🟢 Available for a full-time role, remote or on-site
 </p>
 
+<p align="center">
+  <a href="https://trinaxcode.com">
+    <img src="assets/portfolio-tour.gif" alt="A scrolling tour of trinaxcode.com: hero, about, TrinaxAI, the project carousel, stack, FAQ and contact" width="100%">
+  </a>
+  <br>
+  <sub>A quick tour of <a href="https://trinaxcode.com">trinaxcode.com</a>: 12 projects, bilingual (ES/EN), CV, certificates and a 15-minute call booking</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>12</strong><br><sub>projects in<br>the portfolio</sub></td>
+    <td align="center"><strong>3</strong><br><sub>countries with<br>real clients</sub></td>
+    <td align="center"><strong>3</strong><br><sub>open-source<br>projects</sub></td>
+    <td align="center"><strong>4</strong><br><sub>verified<br>certificates</sub></td>
+    <td align="center"><strong>ES · EN</strong><br><sub>native · C2</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="#-flagship-project">Flagship</a> ·
+  <a href="#-mirrorlab">MirrorLab</a> ·
+  <a href="#-selected-work">Selected work</a> ·
+  <a href="#-toolbox">Toolbox</a> ·
+  <a href="#-education--certificates">Certificates</a> ·
+  <a href="#-lets-build-something-useful">Contact</a>
+</p>
+
 <details>
 <summary><strong>Resumen en español</strong></summary>
 
@@ -44,20 +71,6 @@ working_style:  "Spec → plan → tests → review → ship (AI agents help, th
 languages:      "Spanish (native) · English (C2, EF SET 72/100)"
 availability:   "Full-time, remote or on-site, immediate start · freelance projects welcome"
 ```
-
-## 🌐 My portfolio is live
-
-<p align="center">
-  <a href="https://trinaxcode.com">
-    <img src="assets/portfolio-tour.gif" alt="A scrolling tour of trinaxcode.com: hero, about, TrinaxAI, the project carousel, stack, FAQ and contact" width="100%">
-  </a>
-</p>
-
-**[trinaxcode.com](https://trinaxcode.com)** is where everything below lives with live demos, tech stacks and the story behind each project.
-
-- 12 projects (client work and my own), each with its stack and a live link or source
-- Bilingual (Spanish / English), with the [CV](https://trinaxcode.com/cv/) to read online or download as PDF
-- Verifiable certificates, an FAQ, a blog for case studies (the first ones are in the works), and a [15-minute call booking](https://cal.com/trinax-code-xst3w0/primera-llamada)
 
 ## 🚀 Flagship project
 
@@ -133,24 +146,74 @@ trinaxai setup
   <a href="https://github.com/TrinaxCode/mirrorlab"><strong>Source →</strong></a>
 </p>
 
-## 🧩 Selected products
+## 🧩 Selected work
 
-| Product | Problem solved | Engineering |
-|---|---|---|
-| 🏠 **[Belcons Remodeling](https://belconsremodeling-production.up.railway.app/)** | Lead capture, project presentation and quote management for a remodeling company in Florida, USA, with a private admin panel. | Django · PostgreSQL · Cloudinary · Railway |
-| 📒 **[ContaNI](https://conta-ni.web.app/)** | Accounting for small businesses in Nicaragua: journal, ledger, VAT (IVA), bank reconciliation and month-end close. Try it without creating an account. | Next.js · TypeScript · Supabase · Clerk · 890+ unit tests |
-| ☕ **[Shine Coffee](https://shine-coffee.vercel.app/)** | Online coffee store in córdobas with PayPal checkout, order tracking and a role-based admin panel. | JavaScript · Node · Firebase · Vercel |
-| 🍽️ **Comedor Doña Chola** *(private)* | Point of sale for a 12-table restaurant: waiter tablets, cashier and kitchen tickets on thermal printers. I installed 4 tablets and 4 printers and wrote the staff guides. | React · TypeScript · Supabase |
-| 🎓 **[CEDAS Montessori](https://davidalfarosiqueiros.web.app/)** | Enrollment-focused website for a school: contact form, FAQ search and prerendered pages for Google. | React · TypeScript · Firebase |
-| ⛪ **[Iglesia El Jobo](https://adventistaseljobo.web.app/)** | Accessible community site with events, gallery and contact, tested on phone, tablet and desktop. | React · Tailwind · Playwright |
-| 🌿 **[Rednura](https://rednura.web.app/)** | 42-product catalog with guides for 139 health conditions, a cart and ordering through WhatsApp. | JavaScript · Firebase · Structured data |
-| 🧪 **[Neotonic](https://neotonic.mx/)** | Company landing page with SEO, security headers and a build step that validates the structured data. | HTML · CSS · Firebase · JSON-LD |
-| 📊 **El Rincón de los Antojitos** *(private)* | Finance dashboard for a food business: daily sales, costs, expenses, profit and accounts receivable. | React · Firebase |
+Real products for real businesses, plus my own. Click any card to open the live site.
 
-### Engineering beyond the live sites
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://belconsremodeling-production.up.railway.app/"><img src="assets/site-belcons.webp" alt="Belcons Remodeling home page" width="100%"></a>
+      <br><strong><a href="https://belconsremodeling-production.up.railway.app/">Belcons Remodeling</a></strong>
+      <br>Lead capture, project gallery and quote management for a remodeling company in Florida, with a private admin panel.
+      <br><sub>Django · PostgreSQL · Cloudinary · Railway</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://conta-ni.web.app/"><img src="assets/site-contani.webp" alt="ContaNI dashboard in demo mode" width="100%"></a>
+      <br><strong><a href="https://conta-ni.web.app/">ContaNI</a></strong>
+      <br>Accounting for small businesses in Nicaragua: journal, ledger, VAT (IVA), bank reconciliation and month-end close. Try it without an account.
+      <br><sub>Next.js · TypeScript · Supabase · Clerk · 890+ unit tests</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://shine-coffee.vercel.app/"><img src="assets/site-shine.webp" alt="Shine Coffee home page" width="100%"></a>
+      <br><strong><a href="https://shine-coffee.vercel.app/">Shine Coffee</a></strong>
+      <br>Online coffee store in córdobas with PayPal checkout, order tracking and a role-based admin panel.
+      <br><sub>JavaScript · Node · Firebase · Vercel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://davidalfarosiqueiros.web.app/"><img src="assets/site-cedas.webp" alt="CEDAS Montessori home page" width="100%"></a>
+      <br><strong><a href="https://davidalfarosiqueiros.web.app/">CEDAS Montessori</a></strong>
+      <br>Enrollment-focused school website: contact form, FAQ search and prerendered pages for Google.
+      <br><sub>React · TypeScript · Firebase</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://adventistaseljobo.web.app/"><img src="assets/site-eljobo.webp" alt="Iglesia El Jobo home page" width="100%"></a>
+      <br><strong><a href="https://adventistaseljobo.web.app/">Iglesia El Jobo</a></strong>
+      <br>Accessible community site with events, gallery and contact, tested on phone, tablet and desktop.
+      <br><sub>React · Tailwind · Playwright</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://rednura.web.app/"><img src="assets/site-rednura.webp" alt="Rednura product catalog" width="100%"></a>
+      <br><strong><a href="https://rednura.web.app/">Rednura</a></strong>
+      <br>42-product catalog with guides for 139 health conditions, a cart and ordering through WhatsApp.
+      <br><sub>JavaScript · Firebase · Structured data</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://neotonic.mx/"><img src="assets/site-neotonic.webp" alt="Neotonic home page" width="100%"></a>
+      <br><strong><a href="https://neotonic.mx/">Neotonic</a></strong>
+      <br>Company landing page with SEO, security headers and a build step that validates the structured data.
+      <br><sub>HTML · CSS · Firebase · JSON-LD</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://trinaxbank.vercel.app/"><img src="assets/site-trinaxbank.webp" alt="TrinaxBank sign-in screen" width="100%"></a>
+      <br><strong><a href="https://trinaxbank.vercel.app/">TrinaxBank</a></strong> · <a href="https://github.com/TrinaxCode/TrinaxBank">source</a>
+      <br>Educational banking simulation: money in integer cents, atomic transfers with idempotency keys, step-up verification. 240+ unit/integration tests and 24 Playwright tests.
+      <br><sub>Next.js · Prisma · NextAuth · MIT</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/site-private.webp" alt="Private client systems: point of sale and finance dashboard" width="100%">
+      <br><strong>Private systems</strong>
+      <br><strong>Comedor Doña Chola:</strong> point of sale for a 12-table restaurant. I installed 4 tablets and 4 thermal printers and wrote the staff guides. <strong>El Rincón de los Antojitos:</strong> sales, costs and receivables dashboard.
+      <br><sub>React · TypeScript · Supabase · Firebase</sub>
+    </td>
+  </tr>
+</table>
 
-- **[TrinaxBank](https://github.com/TrinaxCode/TrinaxBank)** ([live demo](https://trinaxbank.vercel.app/)) — an educational, bilingual banking simulation with Next.js, Prisma and NextAuth. Money is stored in integer cents, balance updates are guarded and atomic, transfers carry idempotency keys so they can't run twice, large transfers ask for step-up verification, and the repo has 240+ unit/integration tests plus 24 Playwright and accessibility tests. MIT licensed, synthetic data only.
-- **ApexLumen** — Django educational platform with authentication, contributions, search, permissions, likes, ratings, comments and multi-format media.
+Also: **ApexLumen**, a Django educational platform with authentication, contributions, search, permissions, likes, ratings, comments and multi-format media.
 
 ## 🛠️ Toolbox
 
