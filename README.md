@@ -19,7 +19,7 @@
 </p>
 
 <details>
-<summary><strong>🇪🇸 Resumen en español</strong></summary>
+<summary><strong>Resumen en español</strong></summary>
 
 <br>
 
@@ -49,7 +49,7 @@ availability:   "Full-time, remote or on-site, immediate start · freelance proj
 
 <p align="center">
   <a href="https://trinaxcode.com">
-    <img src="assets/portfolio.webp" alt="trinaxcode.com, the TrinaxCode portfolio" width="100%">
+    <img src="assets/portfolio-tour.gif" alt="A scrolling tour of trinaxcode.com: hero, about, TrinaxAI, the project carousel, stack, FAQ and contact" width="100%">
   </a>
 </p>
 
@@ -88,6 +88,12 @@ availability:   "Full-time, remote or on-site, immediate start · freelance proj
 npm install -g trinaxai@latest
 trinaxai setup
 ```
+
+<p align="center">
+  <img src="assets/trinaxai-tour.gif" alt="TrinaxAI tour: a cited answer with its source file, indexing a folder, a coding agent asking for approval before writing a file, and a one-time code to pair another device" width="720">
+  <br>
+  <sub>Cited answers · indexing · agent approvals · device pairing (tour from <a href="https://trinaxai.app">trinaxai.app</a>)</sub>
+</p>
 
 - Cited answers over your files with hybrid retrieval, collections and incremental indexing, plus optional web research, memory, voice and vision
 - Local models through Ollama, with a profile chosen automatically from your RAM and GPU
@@ -177,23 +183,39 @@ I use AI agents every day to move faster, but I don't let them decide on their o
 
 The constant has been simple: every project should teach me something the previous one could not.
 
-## 🎓 Education
+## 🎓 Education & certificates
 
-| Program | Evidence |
-|---|---|
-| **HarvardX CS50W** — Web Programming with Python and JavaScript (October 2025) | [CS50 certificate](https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b) · [edX verified certificate](https://courses.edx.org/certificates/9e05af2e3b584f4bbda94476979aaaeb) |
-| **Harvard CS50x** — Introduction to Computer Science (2026) | [CS50 certificate](https://cs50.harvard.edu/certificates/de155a22-62ee-4529-b30d-17d98cbaf165) |
-| **Stanford Code in Place 2026** | [Verified certificate](https://codeinplace.stanford.edu/cip6/certificate/6dufs7) |
-| **EF SET English C2** — 72/100 (November 2026) | [Verified certificate](https://cert.efset.org/en/TDgHZh) |
+Self-taught first, then verified: every certificate below links to its public verification page.
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b"><img src="assets/cert-thumb-cs50w.webp" alt="Harvard CS50W certificate" width="100%"></a>
+      <br><strong>HarvardX CS50W</strong><br>Web Programming with Python and JavaScript<br>
+      <sub>October 2025 · <a href="https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b">CS50 certificate</a> · <a href="https://courses.edx.org/certificates/9e05af2e3b584f4bbda94476979aaaeb">edX verified</a></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cs50.harvard.edu/certificates/de155a22-62ee-4529-b30d-17d98cbaf165"><img src="assets/cert-thumb-cs50x.webp" alt="Harvard CS50x certificate" width="100%"></a>
+      <br><strong>Harvard CS50x</strong><br>Introduction to Computer Science<br>
+      <sub>2026 · ten problem sets and a final project · <a href="https://cs50.harvard.edu/certificates/de155a22-62ee-4529-b30d-17d98cbaf165">Verify</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://codeinplace.stanford.edu/cip6/certificate/6dufs7"><img src="assets/cert-thumb-codeinplace.webp" alt="Stanford Code in Place certificate" width="100%"></a>
+      <br><strong>Stanford Code in Place</strong><br>Programming with Python<br>
+      <sub>April – May 2026 · <a href="https://codeinplace.stanford.edu/cip6/certificate/6dufs7">Verify</a></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://cert.efset.org/en/TDgHZh"><img src="assets/cert-thumb-efset.webp" alt="EF SET English certificate: 72/100, C2 Proficient" width="100%"></a>
+      <br><strong>EF SET English Certificate</strong><br>72/100 · C2 Proficient<br>
+      <sub>Awarded 3 November 2026 · <a href="https://cert.efset.org/en/TDgHZh">Verify</a></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b"><img src="assets/cert-cs50w.png" alt="Harvard CS50W certificate" height="230"></a>
-  &nbsp;
-  <a href="https://courses.edx.org/certificates/9e05af2e3b584f4bbda94476979aaaeb"><img src="assets/cert-cs50w-edx.png" alt="HarvardX CS50W edX verified certificate" height="230"></a>
-</p>
-
-<p align="center">
-  <a href="https://codeinplace.stanford.edu/cip6/certificate/6dufs7"><img src="assets/cert-codeinplace.png" alt="Stanford Code in Place certificate" height="255"></a>
+  <sub>HarvardX Professional Certificate in Computer Science for Web Programming (CS50x + CS50W): expected November 2026.</sub>
 </p>
 
 ## 🤝 Let's build something useful
