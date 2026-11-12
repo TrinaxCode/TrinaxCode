@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://trinaxcode.com"><img src="https://img.shields.io/badge/Portfolio-trinaxcode.com-1688F8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: trinaxcode.com"></a>
+  <a href="https://trinaxcode.com/cv/?lang=en"><img src="https://img.shields.io/badge/CV-Read_or_download-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV: read online or download as PDF"></a>
   <a href="https://www.linkedin.com/in/trinaxcode/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:contact@trinaxcode.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -28,19 +29,18 @@
 
 <table align="center">
   <tr>
-    <td align="center"><strong>12</strong><br><sub>projects in<br>the portfolio</sub></td>
-    <td align="center"><strong>3</strong><br><sub>countries with<br>real clients</sub></td>
-    <td align="center"><strong>3</strong><br><sub>open-source<br>projects</sub></td>
-    <td align="center"><strong>4</strong><br><sub>verified<br>certificates</sub></td>
-    <td align="center"><strong>ES · EN</strong><br><sub>native · C2</sub></td>
+    <td align="center"><strong>12</strong><br><sub>projects</sub></td>
+    <td align="center"><strong>3</strong><br><sub>client countries</sub></td>
+    <td align="center"><strong>3</strong><br><sub>open-source repos</sub></td>
+    <td align="center"><strong>4</strong><br><sub>verified certificates</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="#-flagship-project">Flagship</a> ·
+  <a href="#-what-i-bring">What I bring</a> ·
+  <a href="#-flagship-project-trinaxai">TrinaxAI</a> ·
   <a href="#-mirrorlab">MirrorLab</a> ·
   <a href="#-selected-work">Selected work</a> ·
-  <a href="#-toolbox">Toolbox</a> ·
   <a href="#-education--certificates">Certificates</a> ·
   <a href="#-lets-build-something-useful">Contact</a>
 </p>
@@ -72,26 +72,32 @@ languages:      "Spanish (native) · English (C2, EF SET 72/100)"
 availability:   "Full-time, remote or on-site, immediate start · freelance projects welcome"
 ```
 
-## 🚀 Flagship project
+## 💼 What I bring
+
+- **End-to-end ownership.** From the first conversation with the client to deployment, support and staff training. I learn how the business runs before I write the first line.
+- **Security and privacy by default.** Authentication and authorization, least privilege, sandboxing, rate limits, security headers and data that stays where it belongs.
+- **Tested, measurable work.** Pytest, Vitest, Testing Library, Playwright, Lighthouse, CI and CodeQL on the projects that need them, and READMEs that state known limits instead of hiding them.
+- **Clear communication in two languages.** Native Spanish and C2 English, with clients, teammates and documentation.
+- **AI as a tool, not the author.** I use AI agents every day, but every change starts from a spec and a plan, is covered by tests, and gets my review before it ships. I understand, and can maintain, all the code I deliver.
+
+## 🚀 Flagship project: TrinaxAI
 
 <p align="center">
   <a href="https://github.com/TrinaxCode/TrinaxAI">
-    <img src="assets/trinaxai.webp" alt="TrinaxAI" width="180">
+    <img src="assets/trinaxai.webp" alt="TrinaxAI logo" width="120">
   </a>
+  <br>
+  <a href="https://github.com/TrinaxCode/TrinaxAI"><strong>Source</strong></a> ·
+  <a href="https://trinaxai.app"><strong>Product site</strong></a> ·
+  <a href="https://github.com/TrinaxCode/TrinaxAI/releases"><strong>Releases</strong></a>
 </p>
-
-<h3 align="center">
-  <a href="https://github.com/TrinaxCode/TrinaxAI">TrinaxAI</a> ·
-  <a href="https://trinaxai.app">Product site</a> ·
-  <a href="https://github.com/TrinaxCode/TrinaxAI/releases">Releases</a>
-</h3>
 
 <p align="center">
   <a href="https://github.com/TrinaxCode/TrinaxAI/releases"><img src="https://img.shields.io/github/v/release/TrinaxCode/TrinaxAI?style=flat-square&label=release&color=1688F8" alt="Latest release"></a>
   <a href="https://www.npmjs.com/package/trinaxai"><img src="https://img.shields.io/npm/v/trinaxai?style=flat-square&label=npm&color=1688F8" alt="npm version"></a>
   <a href="https://github.com/TrinaxCode/TrinaxAI/actions/workflows/ci.yml"><img src="https://github.com/TrinaxCode/TrinaxAI/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/TrinaxCode/TrinaxAI/actions/workflows/codeql.yml"><img src="https://github.com/TrinaxCode/TrinaxAI/actions/workflows/codeql.yml/badge.svg" alt="CodeQL"></a>
-  <a href="https://github.com/TrinaxCode/TrinaxAI/stargazers"><img src="https://img.shields.io/github/stars/TrinaxCode/TrinaxAI?style=flat-square&color=1688F8" alt="GitHub stars"></a>
+  <a href="https://github.com/TrinaxCode/TrinaxAI"><img src="https://img.shields.io/github/stars/TrinaxCode/TrinaxAI?style=flat-square&color=1688F8" alt="GitHub stars"></a>
   <a href="https://github.com/TrinaxCode/TrinaxAI/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--or--later-1688F8?style=flat-square" alt="License: AGPL-3.0-or-later"></a>
 </p>
 
@@ -108,17 +114,11 @@ trinaxai setup
   <sub>Cited answers · indexing · agent approvals · device pairing (tour from <a href="https://trinaxai.app">trinaxai.app</a>)</sub>
 </p>
 
-- Cited answers over your files with hybrid retrieval, collections and incremental indexing, plus optional web research, memory, voice and vision
-- Local models through Ollama, with a profile chosen automatically from your RAM and GPU
-- A coding agent confined to approved workspaces, with approvals for risky actions and a networkless sandbox for its terminal tool on Linux
-- Scoped, revocable device pairing so other devices on your network only get the capabilities you grant
-- Official installer on npm that verifies SHA-256 checksums; releases, CI and CodeQL for Linux, macOS and Windows
-- 200+ Python and frontend test files covering the agent, CLI, RAG, security, pairing and services
-- Honest documentation: its README lists known limits, such as which platforms are covered by CI but not yet by end-to-end runs
-
-<p align="center">
-  <a href="https://github.com/TrinaxCode/TrinaxAI"><strong>Explore the source →</strong></a>
-</p>
+- **Cited answers over your files:** hybrid retrieval, collections and incremental indexing, plus optional web research, memory, voice and vision
+- **Local models through Ollama,** with a profile chosen automatically from your RAM and GPU
+- **A coding agent with guardrails:** confined to approved workspaces, approvals for risky actions and a networkless sandbox for its terminal tool on Linux
+- **Scoped, revocable device pairing,** so other devices on your network only get the capabilities you grant
+- **Shipped like a product:** npm installer that verifies SHA-256 checksums, CI and CodeQL on Linux, macOS and Windows, and 200+ Python and frontend test files
 
 ## 🪞 MirrorLab
 
@@ -135,11 +135,10 @@ trinaxai setup
   <img src="https://img.shields.io/badge/status-beta-f0a020?style=flat-square" alt="Status: beta">
 </p>
 
-- Hold-to-confirm hand gestures for the privacy shutter, reactions and background switching, plus a local `ctl` command you can bind to any hotkey
-- Fails closed: if the person mask is unavailable the whole frame is blurred, and a closed shutter never shows camera pixels
-- About 30 fps at 720p on a laptop CPU, measured and documented in the repository
-- Installers for Windows, macOS (Apple silicon) and Linux, each release with `SHA256SUMS` and build provenance
-- Limits written down up front: it needs OBS on Windows and macOS, and the macOS build is not notarized yet
+- **Hold-to-confirm hand gestures** for the privacy shutter, reactions and background switching, plus a local `ctl` command you can bind to any hotkey
+- **Fails closed:** if the person mask is unavailable the whole frame is blurred, and a closed shutter never shows camera pixels
+- **About 30 fps at 720p on a laptop CPU,** measured and documented in the repository
+- **Verifiable releases:** installers for Windows, macOS (Apple silicon) and Linux with `SHA256SUMS` and build provenance; limits written down up front (OBS is needed on Windows and macOS, and the macOS build is not notarized yet)
 
 <p align="center">
   <a href="https://mirrorlabapp.web.app/en/"><strong>Website</strong></a> ·
@@ -148,107 +147,96 @@ trinaxai setup
 
 ## 🧩 Selected work
 
-Real products for real businesses, plus my own. Click any card to open the live site.
+Real products for real businesses, plus my own. Every card opens the live site.
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <a href="https://belconsremodeling-production.up.railway.app/"><img src="assets/site-belcons.webp" alt="Belcons Remodeling home page" width="100%"></a>
       <br><strong><a href="https://belconsremodeling-production.up.railway.app/">Belcons Remodeling</a></strong>
-      <br>Lead capture, project gallery and quote management for a remodeling company in Florida, with a private admin panel.
+      <br>Leads, project gallery and quote management for a remodeling company in Florida, with a private admin panel.
       <br><sub>Django · PostgreSQL · Cloudinary · Railway</sub>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <a href="https://conta-ni.web.app/"><img src="assets/site-contani.webp" alt="ContaNI dashboard in demo mode" width="100%"></a>
       <br><strong><a href="https://conta-ni.web.app/">ContaNI</a></strong>
-      <br>Accounting for small businesses in Nicaragua: journal, ledger, VAT (IVA), bank reconciliation and month-end close. Try it without an account.
-      <br><sub>Next.js · TypeScript · Supabase · Clerk · 890+ unit tests</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://shine-coffee.vercel.app/"><img src="assets/site-shine.webp" alt="Shine Coffee home page" width="100%"></a>
-      <br><strong><a href="https://shine-coffee.vercel.app/">Shine Coffee</a></strong>
-      <br>Online coffee store in córdobas with PayPal checkout, order tracking and a role-based admin panel.
-      <br><sub>JavaScript · Node · Firebase · Vercel</sub>
+      <br>Accounting for small businesses in Nicaragua: ledger, VAT (IVA), bank reconciliation and month-end close. Demo without an account.
+      <br><sub>Next.js · TypeScript · Supabase · Clerk · 890+ tests</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
+      <a href="https://shine-coffee.vercel.app/"><img src="assets/site-shine.webp" alt="Shine Coffee home page" width="100%"></a>
+      <br><strong><a href="https://shine-coffee.vercel.app/">Shine Coffee</a></strong>
+      <br>Coffee store in córdobas with PayPal checkout, order tracking and a role-based admin panel.
+      <br><sub>JavaScript · Node · Firebase · Vercel</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://trinaxbank.vercel.app/"><img src="assets/site-trinaxbank.webp" alt="TrinaxBank sign-in screen" width="100%"></a>
+      <br><strong><a href="https://trinaxbank.vercel.app/">TrinaxBank</a></strong> · <a href="https://github.com/TrinaxCode/TrinaxBank">source</a>
+      <br>Educational banking simulation: integer-cent money, atomic transfers with idempotency keys and step-up verification.
+      <br><sub>Next.js · Prisma · NextAuth · 240+ tests · MIT</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://davidalfarosiqueiros.web.app/"><img src="assets/site-cedas.webp" alt="CEDAS Montessori home page" width="100%"></a>
       <br><strong><a href="https://davidalfarosiqueiros.web.app/">CEDAS Montessori</a></strong>
-      <br>Enrollment-focused school website: contact form, FAQ search and prerendered pages for Google.
+      <br>Enrollment-focused school website with a contact form, FAQ search and prerendered pages for Google.
       <br><sub>React · TypeScript · Firebase</sub>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <a href="https://adventistaseljobo.web.app/"><img src="assets/site-eljobo.webp" alt="Iglesia El Jobo home page" width="100%"></a>
       <br><strong><a href="https://adventistaseljobo.web.app/">Iglesia El Jobo</a></strong>
       <br>Accessible community site with events, gallery and contact, tested on phone, tablet and desktop.
       <br><sub>React · Tailwind · Playwright</sub>
     </td>
-    <td width="33%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://rednura.web.app/"><img src="assets/site-rednura.webp" alt="Rednura product catalog" width="100%"></a>
       <br><strong><a href="https://rednura.web.app/">Rednura</a></strong>
       <br>42-product catalog with guides for 139 health conditions, a cart and ordering through WhatsApp.
       <br><sub>JavaScript · Firebase · Structured data</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top">
       <a href="https://neotonic.mx/"><img src="assets/site-neotonic.webp" alt="Neotonic home page" width="100%"></a>
       <br><strong><a href="https://neotonic.mx/">Neotonic</a></strong>
       <br>Company landing page with SEO, security headers and a build step that validates the structured data.
       <br><sub>HTML · CSS · Firebase · JSON-LD</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://trinaxbank.vercel.app/"><img src="assets/site-trinaxbank.webp" alt="TrinaxBank sign-in screen" width="100%"></a>
-      <br><strong><a href="https://trinaxbank.vercel.app/">TrinaxBank</a></strong> · <a href="https://github.com/TrinaxCode/TrinaxBank">source</a>
-      <br>Educational banking simulation: money in integer cents, atomic transfers with idempotency keys, step-up verification. 240+ unit/integration tests and 24 Playwright tests.
-      <br><sub>Next.js · Prisma · NextAuth · MIT</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="assets/site-private.webp" alt="Private client systems: point of sale and finance dashboard" width="100%">
-      <br><strong>Private systems</strong>
-      <br><strong>Comedor Doña Chola:</strong> point of sale for a 12-table restaurant. I installed 4 tablets and 4 thermal printers and wrote the staff guides. <strong>El Rincón de los Antojitos:</strong> sales, costs and receivables dashboard.
-      <br><sub>React · TypeScript · Supabase · Firebase</sub>
-    </td>
   </tr>
 </table>
 
-Also: **ApexLumen**, a Django educational platform with authentication, contributions, search, permissions, likes, ratings, comments and multi-format media.
+**Also built (private or not deployed):**
+
+- **Comedor Doña Chola:** point of sale for a 12-table restaurant, with waiter tablets, a cashier and kitchen tickets on thermal printers. I installed 4 tablets and 4 printers and wrote the staff guides. *React · TypeScript · Supabase*
+- **El Rincón de los Antojitos:** finance dashboard for daily sales, costs, expenses, profit and accounts receivable. *React · Firebase*
+- **ApexLumen:** Django educational platform with authentication, contributions, search, permissions, ratings, comments and multi-format media.
 
 ## 🔧 Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,django,nodejs,postgres,firebase,supabase,fastapi,prisma,docker,linux,git,githubactions,vercel&perline=9" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Django, Node.js, PostgreSQL, Firebase, Supabase, FastAPI, Prisma, Docker, Linux, Git, GitHub Actions and Vercel">
+  <br>
+  <sub>Also: Ollama · LlamaIndex · OpenCV · Pytest · Vitest · Playwright · Lighthouse · CodeQL</sub>
 </p>
-
-<p align="center">
-  <sub>Python · TypeScript · JavaScript · React · Next.js · Tailwind · Django · Node.js · PostgreSQL · Firebase · Supabase · FastAPI · Prisma · Docker · Linux · Git · GitHub Actions · Vercel · Ollama · LlamaIndex · OpenCV</sub>
-</p>
-
-| I build | I protect | I verify |
-|---|---|---|
-| Websites, e-commerce, point-of-sale systems, APIs, PWAs, desktop apps, CLIs, RAG systems | Authentication and authorization, least privilege, sandboxing, rate limits, security headers, privacy by default | Pytest, Vitest, Testing Library, Playwright, Lighthouse, CI, CodeQL |
-
-### How I work with AI
-
-I use AI agents every day to move faster, but I don't let them decide on their own. Every change starts from a spec and a plan, is covered by tests, and gets my review before it's merged. That way I understand, and can maintain, all the code I deliver.
 
 ## 📈 The journey
 
-```text
-2022  ── First pages in HTML, CSS and JavaScript, learning on my own
-2023  ── Gifts for family and practice websites
-2024  ── Python, Django and my GitHub account (October)
-2025  ── Harvard CS50W · first clients: Belcons, CEDAS, El Jobo, Rednura
-2026  ── CS50x, HarvardX Professional Certificate and Stanford Code in Place · Comedor Doña Chola, Shine Coffee,
-         Neotonic, ContaNI · TrinaxAI on npm · MirrorLab · trinaxcode.com
-```
+- **2022** · First pages in HTML, CSS and JavaScript, learning on my own
+- **2023** · Gifts for family and practice websites
+- **2024** · Python, Django and my GitHub account (October)
+- **2025** · Harvard CS50W · first clients: Belcons, CEDAS, El Jobo, Rednura
+- **2026** · CS50x, HarvardX Professional Certificate and Stanford Code in Place · Comedor Doña Chola, Shine Coffee, Neotonic, ContaNI · TrinaxAI on npm · MirrorLab · trinaxcode.com
 
 The constant has been simple: every project should teach me something the previous one could not.
 
 ## 🎓 Education & certificates
 
-Self-taught first, then verified: every certificate below links to its public verification page.
+> 🏅 **HarvardX Professional Certificate in Computer Science for Web Programming** (CS50x + CS50W), earned November 2026.
+
+Self-taught first, then verified: every certificate in the grid links to its public verification page.
 
 <table>
   <tr>
@@ -276,10 +264,6 @@ Self-taught first, then verified: every certificate below links to its public ve
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>HarvardX Professional Certificate in Computer Science for Web Programming (CS50x + CS50W): earned November 2026.</sub>
-</p>
 
 ## 🤝 Let's build something useful
 
