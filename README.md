@@ -11,11 +11,11 @@
 <p align="center">
   <a href="https://trinaxcode.com"><img src="https://img.shields.io/badge/Portfolio-trinaxcode.com-1688F8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: trinaxcode.com"></a>
   <a href="https://www.linkedin.com/in/trinaxcode/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:hola@trinaxcode.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contact@trinaxcode.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  🇳🇮 Nicaraguan developer &nbsp;·&nbsp; 📍 Managua, Nicaragua (UTC−6) &nbsp;·&nbsp; 🟢 Available for a full-time role, remote or on-site
+  🇳🇮 Nicaraguan developer &nbsp;·&nbsp; 📍 Tuxtla Gutiérrez, Mexico (UTC−6) &nbsp;·&nbsp; 🟢 Available for a full-time role, remote or on-site
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@
 
 <br>
 
-Soy **Huascar Ignacio D Trinidad Arguello**, desarrollador full-stack autodidacta de Managua, Nicaragua. Desde 2025 he entregado sitios web, sistemas internos y apps para negocios reales en Nicaragua, México y Estados Unidos, y construyo mis propias herramientas de código abierto: **[TrinaxAI](https://github.com/TrinaxCode/TrinaxAI)** (un asistente de IA local que cita tus archivos) y **[MirrorLab](https://github.com/TrinaxCode/mirrorlab)** (una cámara virtual controlada con gestos de la mano).
+Soy **Huascar Ignacio D Trinidad Arguello**, desarrollador full-stack autodidacta de Nicaragua, ahora en Tuxtla Gutiérrez, México. Desde 2025 he entregado sitios web, sistemas internos y apps para negocios reales en Nicaragua, México y Estados Unidos, y construyo mis propias herramientas de código abierto: **[TrinaxAI](https://github.com/TrinaxCode/TrinaxAI)** (un asistente de IA local que cita tus archivos) y **[MirrorLab](https://github.com/TrinaxCode/mirrorlab)** (una cámara virtual controlada con gestos de la mano).
 
-Busco un puesto de **tiempo completo**, remoto o presencial, con inicio inmediato, y sigo aceptando proyectos freelance. Todo mi trabajo, con demos y CV en español e inglés, está en **[trinaxcode.com](https://trinaxcode.com)**. Escríbeme a [hola@trinaxcode.com](mailto:hola@trinaxcode.com).
+Busco un puesto de **tiempo completo**, remoto o presencial, con inicio inmediato, y sigo aceptando proyectos freelance. Todo mi trabajo, con demos y CV en español e inglés, está en **[trinaxcode.com](https://trinaxcode.com)**. Escríbeme a [contact@trinaxcode.com](mailto:contact@trinaxcode.com).
 
 </details>
 
@@ -240,7 +240,7 @@ I use AI agents every day to move faster, but I don't let them decide on their o
 2023  ── Gifts for family and practice websites
 2024  ── Python, Django and my GitHub account (October)
 2025  ── Harvard CS50W · first clients: Belcons, CEDAS, El Jobo, Rednura
-2026  ── CS50x and Stanford Code in Place · Comedor Doña Chola, Shine Coffee,
+2026  ── CS50x, HarvardX Professional Certificate and Stanford Code in Place · Comedor Doña Chola, Shine Coffee,
          Neotonic, ContaNI · TrinaxAI on npm · MirrorLab · trinaxcode.com
 ```
 
@@ -278,7 +278,7 @@ Self-taught first, then verified: every certificate below links to its public ve
 </table>
 
 <p align="center">
-  <sub>HarvardX Professional Certificate in Computer Science for Web Programming (CS50x + CS50W): expected November 2026.</sub>
+  <sub>HarvardX Professional Certificate in Computer Science for Web Programming (CS50x + CS50W): earned November 2026.</sub>
 </p>
 
 ## 🤝 Let's build something useful
@@ -286,7 +286,7 @@ Self-taught first, then verified: every certificate below links to its public ve
 I'm looking for a **full-time developer role**, remote or on-site, with immediate start, and I still take freelance projects. If you need a website, an internal system, a point-of-sale setup or something with local AI, I'd like to hear about it.
 
 <p align="center">
-  <a href="mailto:hola@trinaxcode.com"><img src="https://img.shields.io/badge/Start_a_conversation-hola%40trinaxcode.com-1688F8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email TrinaxCode"></a>
+  <a href="mailto:contact@trinaxcode.com"><img src="https://img.shields.io/badge/Start_a_conversation-contact%40trinaxcode.com-1688F8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email TrinaxCode"></a>
   &nbsp;
   <a href="https://cal.com/trinax-code-xst3w0/primera-llamada"><img src="https://img.shields.io/badge/Book_a_15--minute_call-Cal.com-111827?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Book a 15-minute call"></a>
 </p>
@@ -297,7 +297,6 @@ I'm looking for a **full-time developer role**, remote or on-site, with immediat
   <a href="https://www.linkedin.com/in/trinaxcode/">LinkedIn</a> ·
   <a href="https://x.com/TrinaxCode">X</a> ·
   <a href="https://www.instagram.com/trinaxcode/">Instagram</a> ·
-  <a href="https://www.tiktok.com/@trinaxcode">TikTok</a> ·
   <a href="https://www.facebook.com/TrinaxCode">Facebook</a> ·
   <a href="https://orcid.org/0009-0009-2321-9834">ORCID</a>
 </p>
