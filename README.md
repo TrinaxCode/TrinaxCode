@@ -32,7 +32,7 @@
     <td align="center"><strong>12</strong><br><sub>projects</sub></td>
     <td align="center"><strong>3</strong><br><sub>client countries</sub></td>
     <td align="center"><strong>3</strong><br><sub>open-source repos</sub></td>
-    <td align="center"><strong>4</strong><br><sub>verified certificates</sub></td>
+    <td align="center"><strong>5</strong><br><sub>verified certificates</sub></td>
   </tr>
 </table>
 
@@ -233,11 +233,16 @@ The constant has been simple: every project should teach me something the previo
 
 ## 🎓 Education & certificates
 
-> 🏅 **HarvardX Professional Certificate in Computer Science for Web Programming** (CS50x + CS50W), earned 16 November 2026 · [Verify on edX](https://credentials.edx.org/credentials/13508e4c1fb5425caa0eee59aecfb31e/)
-
 Self-taught first, then verified: every certificate in the grid links to its public verification page.
 
 <table>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://credentials.edx.org/credentials/13508e4c1fb5425caa0eee59aecfb31e/"><img src="assets/cert-thumb-harvardx.webp" alt="HarvardX Professional Certificate in Computer Science for Web Programming" width="50%"></a>
+      <br><strong>HarvardX Professional Certificate</strong><br>Computer Science for Web Programming (CS50x + CS50W)<br>
+      <sub>Earned 16 November 2026 · <a href="https://credentials.edx.org/credentials/13508e4c1fb5425caa0eee59aecfb31e/">Verify on edX</a></sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://cs50.harvard.edu/certificates/2be7fcdd-36c5-4a67-a651-8ea516fa8e5b"><img src="assets/cert-thumb-cs50w.webp" alt="Harvard CS50W certificate" width="100%"></a>
