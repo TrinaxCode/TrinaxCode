@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="TrinaxCode — Full-Stack Product Engineer" width="100%">
+  <img src="assets/banner.png" alt="Huascar Ignacio D Trinidad Arguello · TrinaxCode · Full-Stack Software Developer" width="100%">
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 <br>
 
-Soy **Huascar Ignacio D Trinidad Arguello**, desarrollador full-stack autodidacta de Nicaragua, ahora en Tuxtla Gutiérrez, México. Desde 2025 he entregado sitios web, sistemas internos y apps para negocios reales en Nicaragua, México y Estados Unidos, y construyo mis propias herramientas de código abierto: **[TrinaxAI](https://github.com/TrinaxCode/TrinaxAI)** (un asistente de IA local que cita tus archivos) y **[MirrorLab](https://github.com/TrinaxCode/mirrorlab)** (una cámara virtual controlada con gestos de la mano).
+Soy **Huascar Ignacio D Trinidad Arguello**, **Full-Stack Software Developer** autodidacta de Nicaragua, ahora en Tuxtla Gutiérrez, México. Desde 2025 he entregado sitios web, sistemas internos y apps para negocios reales en Nicaragua, México y Estados Unidos, y construyo mis propias herramientas de código abierto: **[TrinaxAI](https://github.com/TrinaxCode/TrinaxAI)** (un asistente de IA local que cita tus archivos) y **[MirrorLab](https://github.com/TrinaxCode/mirrorlab)** (una cámara virtual controlada con gestos de la mano).
 
 Busco un puesto de **tiempo completo**, remoto o presencial, con inicio inmediato, y sigo aceptando proyectos freelance. Todo mi trabajo, con demos y CV en español e inglés, está en **[trinaxcode.com](https://trinaxcode.com)**. Escríbeme a [contact@trinaxcode.com](mailto:contact@trinaxcode.com).
 
@@ -58,7 +58,7 @@ Busco un puesto de **tiempo completo**, remoto o presencial, con inicio inmediat
 
 ## `$ whoami`
 
-I'm **Huascar Ignacio D Trinidad Arguello**, a self-taught full-stack developer who went from gift pages for family and friends to shipping real products: websites, internal systems and apps for businesses in Nicaragua, Mexico and the United States, plus my own open-source tools.
+I'm **Huascar Ignacio D Trinidad Arguello**, a self-taught **Full-Stack Software Developer** who went from gift pages for family and friends to shipping real products: websites, internal systems and apps for businesses in Nicaragua, Mexico and the United States, plus my own open-source tools.
 
 I don't only write the code. I talk with the client, learn how the business actually runs, and stay until it works. At Comedor Doña Chola that meant setting up the waiter tablets and kitchen printers and writing the cashier guides for the staff.
 
@@ -88,7 +88,6 @@ availability:   "Full-time, remote or on-site, immediate start · freelance proj
   </a>
   <br>
   <a href="https://github.com/TrinaxCode/TrinaxAI"><strong>Source</strong></a> ·
-  <a href="https://trinaxai.app"><strong>Product site</strong></a> ·
   <a href="https://github.com/TrinaxCode/TrinaxAI/releases"><strong>Releases</strong></a>
 </p>
 
@@ -111,7 +110,7 @@ trinaxai setup
 <p align="center">
   <img src="assets/trinaxai-tour.gif" alt="TrinaxAI tour: a cited answer with its source file, indexing a folder, a coding agent asking for approval before writing a file, and a one-time code to pair another device" width="720">
   <br>
-  <sub>Cited answers · indexing · agent approvals · device pairing (tour from <a href="https://trinaxai.app">trinaxai.app</a>)</sub>
+  <sub>Cited answers · indexing · agent approvals · device pairing</sub>
 </p>
 
 - **Cited answers over your files:** hybrid retrieval, collections and incremental indexing, plus optional web research, memory, voice and vision
@@ -234,7 +233,7 @@ The constant has been simple: every project should teach me something the previo
 
 ## 🎓 Education & certificates
 
-> 🏅 **HarvardX Professional Certificate in Computer Science for Web Programming** (CS50x + CS50W), earned November 2026.
+> 🏅 **HarvardX Professional Certificate in Computer Science for Web Programming** (CS50x + CS50W), earned 16 November 2026 · [Verify on edX](https://credentials.edx.org/credentials/13508e4c1fb5425caa0eee59aecfb31e/)
 
 Self-taught first, then verified: every certificate in the grid links to its public verification page.
 
@@ -248,7 +247,7 @@ Self-taught first, then verified: every certificate in the grid links to its pub
     <td width="50%" valign="top" align="center">
       <a href="https://cs50.harvard.edu/certificates/de155a22-62ee-4529-b30d-17d98cbaf165"><img src="assets/cert-thumb-cs50x.webp" alt="Harvard CS50x certificate" width="100%"></a>
       <br><strong>Harvard CS50x</strong><br>Introduction to Computer Science<br>
-      <sub>2026 · ten problem sets and a final project · <a href="https://cs50.harvard.edu/certificates/de155a22-62ee-4529-b30d-17d98cbaf165">Verify</a></sub>
+      <sub>2026 · ten problem sets and a final project · <a href="https://cs50.harvard.edu/certificates/de155a22-62ee-4529-b30d-17d98cbaf165">CS50 certificate</a> · <a href="https://courses.edx.org/certificates/d3be780351904ca7bab22394368d2847">edX verified</a></sub>
     </td>
   </tr>
   <tr>
@@ -280,6 +279,7 @@ I'm looking for a **full-time developer role**, remote or on-site, with immediat
   <a href="https://trinaxcode.com/cv/?lang=en">CV</a> ·
   <a href="https://www.linkedin.com/in/trinaxcode/">LinkedIn</a> ·
   <a href="https://x.com/TrinaxCode">X</a> ·
+  <a href="https://www.youtube.com/@TrinaxCode">YouTube</a> ·
   <a href="https://www.instagram.com/trinaxcode/">Instagram</a> ·
   <a href="https://www.facebook.com/TrinaxCode">Facebook</a> ·
   <a href="https://orcid.org/0009-0009-2321-9834">ORCID</a>
